@@ -47,10 +47,17 @@ while count < src.count do
     if (src[count][0] % 2 == 0) && (src[count][1] % 2 === 0)
       total += (src[count][0] + src[count][1])
     end
+<<<<<<< HEAD
     count += 1
   end
   total
 end
+=======
+  end
+    count += 1
+  end
+
+>>>>>>> 14b298f3460f74f63ac6e5adfe2208efd1d2e2fb
   
   
   
